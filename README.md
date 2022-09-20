@@ -1,7 +1,8 @@
-<b>SUMMARY</b>
+<b>SUMMARY</b><p>
 I have developed an application for students that share an apartment together to resolve the informal communication and monetary problem between roommates by integrating the following features: -
      • Add/ Maintain to-buy Lists: - Like maintain a shopping list.
      • Add /Maintain / Assign ad-hoc to-do task between flat mates
+     </b>
 
 <b>APPROACH</b>
 Stack
